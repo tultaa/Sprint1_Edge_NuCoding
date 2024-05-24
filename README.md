@@ -1,5 +1,6 @@
 # Sprint1 Edge Computing 
-Equipe NuCoding
+#### Equipe NuCoding
+- Integrantes: Arthur Fellipe(553320), Eduardo Pires(556527), Leonardo Munhoz(556824)
 # Projeto Formula E - Sprint 1 - Documentação
 
 Este projeto utiliza um Arduino Uno R3 e componentes diversos para criar um circuito simulador relacionado à Formula E, uma categoria de corrida de carros elétricos.
@@ -57,3 +58,6 @@ Em resumo, este circuito simulador oferece uma solução acessível e versátil 
 3. Os dados são exibidos no display LCD e também no Serial Monitor.
 4. LEDs indicam problemas detectados nos sensores: vermelho para temperatura alta, verde para umidade alta e azul para luminosidade alta.
 5. Um buzzer é acionado quando há algum problema detectado, tocando intermitentemente.
+
+## Visão do Circuito Pronto
+![Screenshot_13](https://github.com/tultaa/Sprint1_Edge_NuCoding/assets/78042666/9c9a9eff-db43-4a1a-99ba-d14cdf24a432)
