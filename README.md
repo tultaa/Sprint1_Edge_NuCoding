@@ -8,6 +8,18 @@ Este projeto utiliza um Arduino Uno R3 e componentes diversos para criar um circ
 
 O projeto consiste em um circuito que monitora temperatura, umidade e luminosidade, exibindo esses dados em um display LCD e também no Serial Monitor do Arduino IDE. Além disso, o circuito aciona LEDs indicadores e um buzzer em caso de problemas detectados nos sensores.
 
+Este projeto consiste em um circuito simulador que pode ser útil em uma situação real de corrida, especialmente em corridas elétricas, como a Formula E, por diversas razões:
+
+- **Monitoramento Ambiental**: O circuito é capaz de monitorar variáveis ambientais como temperatura, umidade e luminosidade. Essas informações são cruciais para garantir o conforto e segurança dos pilotos e equipes durante a corrida, especialmente em ambientes ao ar livre onde as condições climáticas podem mudar rapidamente.
+
+- **Detecção de Condições de Pista**: O sensor de luminosidade pode detectar variações na iluminação da pista, o que pode ser útil para alertar os organizadores sobre áreas com pouca visibilidade ou risco de reflexos, ajudando na tomada de decisões para garantir a segurança dos pilotos.
+
+- **Alerta de Problemas**: Os LEDs indicadores e o buzzer podem alertar as equipes sobre problemas detectados nos sensores, como temperaturas anormalmente altas, umidade elevada ou baixa luminosidade. Esses alertas podem ser úteis para identificar e resolver problemas técnicos nos carros ou na pista antes que eles se tornem mais graves.
+
+- **Documentação e Análise de Dados**: O circuito é capaz de exibir os dados captados no display LCD e no Serial Monitor do Arduino IDE. Isso permite que as equipes coletem e analisem dados em tempo real durante os treinos e corridas, ajudando na tomada de decisões estratégicas para maximizar o desempenho dos carros e pilotos.
+
+Em resumo, este circuito simulador oferece uma solução acessível e versátil para monitoramento ambiental, detecção de problemas e análise de dados em corridas elétricas, contribuindo para a segurança, eficiência e competitividade das equipes e pilotos.
+
 ## Componentes Utilizados
 
 - Arduino Uno R3
