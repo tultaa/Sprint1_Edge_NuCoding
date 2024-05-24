@@ -60,4 +60,7 @@ Em resumo, este circuito simulador oferece uma solução acessível e versátil 
 5. Um buzzer é acionado quando há algum problema detectado, tocando intermitentemente.
 
 ## Visão do Circuito Pronto
+### O Código utilizado esta na pasta codigo_sprint1
 ![Screenshot_13](https://github.com/tultaa/Sprint1_Edge_NuCoding/assets/78042666/9c9a9eff-db43-4a1a-99ba-d14cdf24a432)
+
+
