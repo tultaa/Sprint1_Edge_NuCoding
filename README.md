@@ -1,6 +1,7 @@
 # Sprint1 Edge Computing 
 #### Equipe NuCoding
 - Integrantes: Arthur Fellipe(553320), Eduardo Pires(556527), Leonardo Munhoz(556824)
+#### LINK DO WOKWI: https://wokwi.com/projects/398802312311854081
 # Projeto Formula E - Sprint 1 - Documentação
 
 Este projeto utiliza um Arduino Uno R3 e componentes diversos para criar um circuito simulador relacionado à Formula E, uma categoria de corrida de carros elétricos.
