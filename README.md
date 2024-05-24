@@ -37,9 +37,10 @@ Em resumo, este circuito simulador oferece uma solução acessível e versátil 
 
 1. Instale o Arduino IDE em seu computador.
 2. Abra o Arduino IDE e configure a placa para Arduino Uno R3.
-3. Conecte o Arduino Uno R3 ao computador via cabo USB.
-4. Abra o arquivo do código-fonte do projeto (.ino) no Arduino IDE.
-5. Compile e faça o upload do código para o Arduino Uno R3.
+3. Instale as bibliotecas: LiquidCrystal e DHT.
+4. Conecte o Arduino Uno R3 ao computador via cabo USB.
+5. Abra o arquivo do código-fonte do projeto (.ino) no Arduino IDE.
+6. Compile e faça o upload do código para o Arduino Uno R3.
 
 ## Pinagem
 
